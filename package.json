@@ -13,5 +13,8 @@
     "@slidev/theme-seriph": "*",
     "prettier": "^2.3.2"
   },
-  "name": "share"
+  "name": "share",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
